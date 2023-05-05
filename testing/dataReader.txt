@@ -1,0 +1,2 @@
+dataReader receives as argument a csv file
+E.g. on cmd run "python dataReader.py example.csv"
